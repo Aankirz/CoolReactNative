@@ -21,7 +21,13 @@ A modern, feature-rich Todo application built with React Native, Expo, and TypeS
 
 ## 📱 Screenshots
 
-[Add your app screenshots here]
+<div style="display: flex; gap: 10px;">
+  <img src="../ss/ss1.jpeg" alt="Light Theme" width="300"/>
+  <img src="../ss/ss2.jpeg" alt="Dark Theme" width="300"/>
+</div>
+
+## 🎥 Demo Video
+ [View the demo video](../ss/demo.mp4)
 
 ## 🏗 Setup Instructions
 
